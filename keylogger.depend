@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644893566 source:c:\users\nassim\desktop\keylogger\main.cpp
+	<iostream>
+	<string>
+	<Windows.h>
+	<fstream>
+
